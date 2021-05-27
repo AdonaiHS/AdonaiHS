@@ -1,5 +1,5 @@
 Hi, my name is Adonai.
-I’m a physicist interested in quantum computing and quantum information.
+I’m a physics graduate student, interested in quantum computing and quantum information.
 
 📫 You can reach me via email: adonaih@gmail.com
 
