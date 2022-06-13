@@ -1,4 +1,4 @@
-Hi, my name is Adonai.
+Hi! My name is Adonai.
 I’m a physics graduate student, interested in quantum computing and quantum information.
 
 📫 You can reach me via email: adonaih@gmail.com
